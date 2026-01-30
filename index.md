@@ -5,7 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is [Your Full Name]
+Hi! My name is Isha Chaturvedi
 
 ### Development Environment
 
@@ -41,6 +41,11 @@ Hi! My name is [Your Full Name]
     <a href="{{site.baseurl}}/turtle" style="text-decoration: none;">
         <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Turtle
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/breakout" style="text-decoration: none;">
+        <div style="background-color: #0066CC; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Breakout
         </div>
     </a>
 </div>
