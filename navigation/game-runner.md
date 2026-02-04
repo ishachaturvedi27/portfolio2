@@ -10,7 +10,7 @@ permalink: /rpg/game
 ## Basic Game: Desert Adventure
 
 {% capture challenge1 %}
-Run the basic desert adventure game. Use WASD or arrow keys to move Chill Guy around the desert. Walk up to R2D2 to trigger a mini-game!
+Run the basic deep sea adventure game. Use WASD or arrow keys to move Chill Guy around the dungeon. Walk up to R2D2 to trigger a mini-game!
 {% endcapture %}
 
 {% capture code1 %}
