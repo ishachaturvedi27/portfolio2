@@ -66,7 +66,7 @@ Here is a little bit about me
 - 🏐 Volleyball, I was on the delnorte volleyball team, and I play for san diego travel 
 - 🏡 Where I was Born, I was born in Boston and moved to San Diego when I was three
 - 🧑‍🧑‍🧒‍🧒 Family, I live with my mom, dad, and my little sister who is in second grade 
-- 🏝️ Places I've been, Dubai, Cabo, Miami, Hawaii, Boston
+- 🏝️ Places I've been, Dubai, Cabo, Miami, Hawaii, Boston, Washington, NY
 - 🏫 Dream College, my dream college is UCSD, or UCLA
 
 ### Culture, Family, and Fun
@@ -78,7 +78,7 @@ Here is a little bit about me
 - We intially lived in La Jolla, then we moved to 4s ranch for another 10 years, and latley we moved  closer to black mountain.
 
 <comment>
-me and my family picture
+ my family picture
 </comment>
 <div class="images">
   <img src="{{site.baseurl}}/images/about/family_picture.png" alt="Image 1">
