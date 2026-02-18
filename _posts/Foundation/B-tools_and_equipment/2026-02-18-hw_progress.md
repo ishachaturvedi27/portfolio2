@@ -17,4 +17,6 @@ https://github.com/ishachaturvedi27/student/blob/main/2026-01-20-booleans-lesson
 I taught this lesson 
 ### Homework Link for Nested Conditionals 
 https://github.com/ishachaturvedi27/student/blob/main/CSSE/JavaScriptLessons/Nested_Conditionals/2026-1-14-Nested-Conditionals.ipynb
+### Homework Link for Strings 
+https://github.com/ishachaturvedi27/portfolio2/blob/main/2026-01-27-Strings-homework.ipynb
 
