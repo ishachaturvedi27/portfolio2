@@ -6,7 +6,8 @@ description: This is a description of what I have done this trimester, and some 
 author: Isha Chaturvedi 
 ---
 
-### What are some things I did to keep tings organized? 
+### What are some things I did to keep things organized? 
+
 What are some things I kept track of as scrum master?
 
 - Running daily check-ins with the team
@@ -28,10 +29,10 @@ Team teaching was a project that we had to present to the class, I did my best t
 - made a script for during the presentation 
 - kanban board for progress
 
-<h4>Here is a link below to another blog I made with more details about this project<h4>
 
 
 ### What roles were used in the game project?
+
 Assigning roles for projects is very important as people have many other specialties than others, when everybody can split up the work the project is much easier. Here are some of the roles I assigned to our team below. 
 
 - code manager for NPC 
@@ -42,6 +43,7 @@ Assigning roles for projects is very important as people have many other special
 - debugging manager 
 
 ### Key accomplishments for the final game project 
+
 Below are some of the accomplishments that we managed to do as a team for this specific project. We learned a lot more about the topic as we had run into similar mistakes in the team teaching lesson, so this project was easier to understand. 
 
 - added a NPC 
@@ -50,5 +52,4 @@ Below are some of the accomplishments that we managed to do as a team for this s
 - added extra interactive sprites
 - succesfully pull requested and merged    
 
-<h4>Below is a link to another blog I made going in more depth about the final game project<h4>
 
