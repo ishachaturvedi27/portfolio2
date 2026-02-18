@@ -4,7 +4,7 @@ layout: post
 title: Final Game Blog 
 description: This is a description of how the final game, level 2, which my team had worked on. I was the scrum master and in this blog I will be describe how our team made level 2, and what I did as the scrum master in order to make the level.
 author: Isha Chaturvedi 
-permalink: /tools/experience
+permalink: /tools/game
 ---
 ### Scrum master / designer 
 This section is to describe what my role was is this project as the scrum master and also the designer. I did things such as planning the theme of our level, sommunicatin gwith other team scrum masters, and helping debug. Below are things that I did the most. 
@@ -30,4 +30,6 @@ Assigning roles for projects is very important as people have many other special
 
 ### What are some struggles we ran into?
 In this project we did not run into as many bugs or problems as we did in the teaching lesson, as we had more experince with the topic. Some prob;ems we ran into this project was thing such as our timline, our NPC was glitching due to wrong animation features, and small bugs here and there such as typos and tiny bugs. 
+
+
 
