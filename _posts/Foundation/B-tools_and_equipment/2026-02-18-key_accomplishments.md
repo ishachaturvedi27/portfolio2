@@ -18,7 +18,7 @@ This section is to describe what my role was is this project as the scrum master
 - testing code 
 - making planners or kanban boards 
 
- ### What key accomplishments for this project?
+### What key accomplishments for this project?
 Some Key accomplishments for this project are listed below, these are things we accomplsihed as a team for the teachin project.
 - a leson plan using code runner  
 - homework using code runner 
