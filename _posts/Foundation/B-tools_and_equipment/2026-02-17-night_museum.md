@@ -13,10 +13,8 @@ Night of the Museum was a variety of different electives on showcase for all the
 <div class="images">
   <img src="{{site.baseurl}}/images/about/a101.png" alt="Image 1">
 
-### Outside of the computer science classroom 
-There were a variety of things to look at outside of the classroom as well, closer to the fine arts buildings there were pottery projects out, paintings painted by different students, and a lot of different and interesting things to see. 
+### Things I saw 
+Night of the Museum was a variety of different electives on showcase for all the work they had done to that point in the trimester. 
 
-<comment>Here is a picture<comment>
-<div class="images">
-  <img src="{{site.baseurl}}/images/about/art.png" alt="Image 2">
+
 
