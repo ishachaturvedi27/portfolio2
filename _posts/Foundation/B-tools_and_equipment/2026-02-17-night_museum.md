@@ -8,6 +8,12 @@ author: Isha Chaturvedi
 
 ### Things I saw at night of the museum 
 Night of the Museum was a variety of different electives on showcase for all the work they had done to that point in the trimester. In the computer science classroom there were multiple people presenting what they had worked on through this trimester and there were a lot of interesting things to look at, such as more advanced games and the other people in CSA and CSP told us about what struggles they have ran into and how they handled it as well.
+### Things that I found interesting 
+There were many things to look at inside the classroom at the many different tables and here are some things that I thought were cool or something that I wanted to do later on. 
+- adding interactive sounds to games
+- making the game have interactive questions to choose from
+- learning how to code combat code 
+- more advanced timeline based code 
 
 ### Outside of the classroom
 Outside of the computer science classroom there were more open doors for the night of the museum, they were towards the fine arts building, there were things such as pottery, paintings, and multiple things to look. 
