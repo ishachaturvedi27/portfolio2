@@ -60,9 +60,9 @@ Here is a little bit about where me and my family have previously lived
 
 Here is a little bit about me 
 
-- 🏫 Elementary school (Monterey Ridge Elementary School) 2022 promotion 
-- 🏫 Middle school (Oak Valley Middle School) 2025 promotion
-- 🏫 Highschool ( Delnorte Highschool ) Class of 2029
+- 🏫 My Elementary school (Monterey Ridge Elementary School) 2022 promotion 
+- 🏫 My Middle school (Oak Valley Middle School) 2025 promotion
+- 🏫 My Highschool ( Delnorte Highschool ) Class of 2029
 - 🏐 Volleyball, I was on the delnorte volleyball team, and I play for san diego travel 
 - 🏡 Where I was Born, I was born in Boston and moved to San Diego when I was three
 - 🧑‍🧑‍🧒‍🧒 Family, I live with my mom, dad, and my little sister who is in second grade 
