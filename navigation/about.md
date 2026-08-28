@@ -52,7 +52,97 @@ comments: true
 <comment>
 Here is a little bit about where me and my family have previously lived 
 </comment>
+</comment>
 
+<style>
+
+    .grid-container {
+
+        display: grid;
+
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+
+        gap: 10px;
+
+    }
+
+    .grid-item {
+
+        text-align: center;
+
+    }
+
+    .grid-item img {
+
+        width: 100%;
+
+        height: 100px;
+
+        object-fit: contain;
+
+    }
+
+    .grid-item p {
+
+        margin: 5px 0;
+
+    }
+
+</style>
+
+<div class="grid-container" id="grid_container">
+
+    <!-- content will be added here by JavaScript -->
+
+</div>
+
+<script>
+
+    var container = document.getElementById("grid_container");
+
+    var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
+
+    var living_in_the_world = [
+
+        {"flag": "f/f2/Flag_of_Massachusetts.svg", "greeting": "Hello", "description": "Massachusetts"},
+
+        {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California"},
+
+        {"flag": "4/41/Flag_of_India.svg", "greeting": "Namaste", "description": "India"},
+
+    ];
+
+    for (const location of living_in_the_world) {
+
+        var gridItem = document.createElement("div");
+
+        gridItem.className = "grid-item";
+
+        var img = document.createElement("img");
+
+        img.src = http_source + location.flag;
+
+        img.alt = location.flag + " Flag";
+
+        var description = document.createElement("p");
+
+        description.textContent = location.description;
+
+        var greeting = document.createElement("p");
+
+        greeting.textContent = location.greeting;
+
+        gridItem.appendChild(img);
+
+        gridItem.appendChild(description);
+
+        gridItem.appendChild(greeting);
+
+        container.appendChild(gridItem);
+
+    }
+
+</script>
  🇺🇸 I have lived in massachusetts, chelmsford for about three years as I was born there, and my parents ahs lived there for about 10 years.
  🇮🇳 my ethnicty is from india, both my parents are from india, as i was born here my culture is hindiusm.
 
