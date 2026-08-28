@@ -5,7 +5,7 @@ permalink: /about/
 comments: true
 ---
 
-## As a conversation Starter
+## As a conversation beginner..............
 
 
  My favorite places to go
