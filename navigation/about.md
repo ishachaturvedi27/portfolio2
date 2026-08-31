@@ -165,7 +165,7 @@ Here is a little bit about me
 
 - I live with my mom, dad, and my younger sister who is 7 years old 
 - I was born in Boston as my parents lived there for 10 years before we moved to san diego when I was 3.
-- We intially lived in La Jolla, then we moved to 4s ranch for another 10 years, and latley we moved  closer to black mountain.
+- We intially lived in La Jolla, then we moved to 4s ranch for another 10 years, and latley we moved  closer to black mountai
 
 <comment>
  my family picture
